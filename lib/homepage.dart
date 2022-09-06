@@ -12,7 +12,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text("Isolate Demo"),
+        title: const Text("Isolate Using Compute"),
       ),
       body: Center(
         child: Column(
